@@ -3,3 +3,5 @@ Name: Myra
 Why I joined Girls Who Code: I want to find a community of women passionate about computer science
 
 One thing I want to learn: Computer Vision Projects 
+
+Favorite Programming Language: Lua

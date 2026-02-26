@@ -1,5 +1,5 @@
-Name: [their name]
+Name: Myra
 
-Why I joined Girls Who Code:
+Why I joined Girls Who Code: I want to find a community of women passionate about computer science
 
-One thing I want to learn:
+One thing I want to learn: Computer Vision Projects 
